@@ -1,7 +1,7 @@
 {
-  "name": "@itsukichan/baileys",
+  "name": "@FelixParadox/Bailes",
   "version": "7.3.2",
-  "description": "WhatsApp API Modification By Itsukichann",
+  "description": "WhatsApp Bailes By Felix",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,13 +12,13 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Itsukichann/Baileys",
+  "homepage": "https://github.com/FelixParadox/Bailes",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Itsukichann/Baileys.git"
+    "url": "git+ssh://git@github.com/FelixParadox/Bailes.git"
   },
   "license": "MIT",
-  "author": "Itsukichann",
+  "author": "FelixHasgawa",
 
   "main": "lib/index.js",
   "files": [
@@ -100,6 +100,6 @@
   },
 
   "bugs": {
-    "url": "https://github.com/Itsukichann/Baileys/issues"
+    "url": "https://github.com/FelixParadox/Bailes/issues"
   }
 }
